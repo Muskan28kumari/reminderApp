@@ -1,6 +1,12 @@
 # reminderapp
 
-A new Flutter project.
+A reminder app
+
+# demo video
+
+https://github.com/Muskan28kumari/reminderApp/assets/104787786/e6e865b2-cce8-4f39-94d6-479a3162818c
+
+
 
 ## Getting Started
 
