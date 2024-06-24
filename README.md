@@ -1,4 +1,4 @@
-# reminderapp
+# Reminder App
 
 A reminder app
 
